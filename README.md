@@ -48,10 +48,10 @@ Totalitaire é um jogo que sua historia está ambientada em uma cidade futurista
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/leticiadutra22-23"><img src="https://avatars.githubusercontent.com/u/101335613?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Leticia Dutra</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/indigow95"><img src="https://avatars.githubusercontent.com/u/106782812?v=4" width="100px;" alt="Jean Lima"/><br /><sub><b>Isadora Fontenele</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/PedroKeita"><img src="https://avatars.githubusercontent.com/u/82671771?v=4" width="100px;" alt="Jorge Luiz"/><br /><sub><b>Pedro Lucas</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/xxkaiozin"><img src="https://avatars.githubusercontent.com/u/112056208?v=4" width="100px;" alt="Maria Cecília"/><br /><sub><b>Kaio Leandro</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/leticiadutra22-23"><img src="https://avatars.githubusercontent.com/u/101335613?v=4" width="100px;" alt="Leticia Dutra"/><br /><sub><b>Leticia Dutra</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/indigow95"><img src="https://avatars.githubusercontent.com/u/106782812?v=4" width="100px;" alt="Isadora Fontenele"/><br /><sub><b>Isadora Fontenele</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/PedroKeita"><img src="https://avatars.githubusercontent.com/u/82671771?v=4" width="100px;" alt="Pedro Lucas"/><br /><sub><b>Pedro Lucas</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/xxkaiozin"><img src="https://avatars.githubusercontent.com/u/112056208?v=4" width="100px;" alt="Kaio Leandro"/><br /><sub><b>Kaio Leandro</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
