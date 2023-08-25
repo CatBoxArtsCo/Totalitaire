@@ -10,7 +10,7 @@
     <th>Descrição</th>
   </tr>
   <tr>
-    <td>Duogênesis</td>
+    <td>Bellatrix/Al Najid</td>
     <td style="text-align: justify;">Texto em desenvolvimento</td>
   </tr>
   <tr>
