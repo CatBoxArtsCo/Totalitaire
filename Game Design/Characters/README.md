@@ -10,8 +10,8 @@
     <th>Descrição</th>
   </tr>
   <tr>
-    <td>Gestor Louco (Robô)</td>
-    <td style="text-align: justify;">Gestor Louco, idade desconhecida. Dono do mundo cibernético que o personagem está inserido, o robô é um personagem perverso, que entende tudo sobre informática. Quem cai nesse mundo será automaticamente desafiado. Assim, disposto a testar os conhecimentos do(a) jogador(a) que almeja entrar uma instituição renomada, ele fará desses desejos uma forma de explorar e desafiar o personagem, evitando que o mesmo consiga conquistar os seus objetivos. Porém apesar de ser perverso, se o(a) jogador(a) conseguir vencê-lo, o mesmo irá dar o que o(a) vencedor(a) deseja.</td>
+    <td>Duogênesis</td>
+    <td style="text-align: justify;">Texto em desenvolvimento</td>
   </tr>
   <tr>
     <td>Procel - O Mensageiro</td>
