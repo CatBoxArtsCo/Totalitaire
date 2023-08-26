@@ -1,14 +1,24 @@
-# Totalitaire
+<div align="center">
+  
+![TOTALITAIRE](https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/2e06d985-710a-4f62-9e2b-57d33b4ec732)
+  
+</div>
 
-### ➤ O que é Totalitaire?
+<div align="center">
 
----
+![Badge](https://img.shields.io/badge/status-INPROGRESS-FFFFFF?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/language-PTBR-FFFFFF?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/game-PLATAFORMA-FFFFFF?style=for-the-badge&logo=)
 
-Totalitaire é um jogo que sua historia está ambientada em uma cidade futurista num estilo cyberpunk chamada Quebyoto, que é comandada pela maior empresa empresa de pesquisa e desenvolvimento bélico, visto que o país em que Quebyoto se localiza possui um regime militar, Gileade. Em cerca de dois dias, a nossa protagonista, Bellatrix, ela terá a missão de escapar de um laboratorio.
+Bem-vindo(a) ao Totalitaire, onde uma história eletrizante se desenrola na metrópole de Quebyoto - um refúgio cyberpunk sob o domínio implacável de um regime militar, Gileade. Como a destemida Bellatrix, você é lançado(a) em uma missão de tirar o fôlego: escapar de um laboratório de alta segurança em apenas dois dias. Navegue pela intrincada teia de um futuro distópico, onde o poder corporativo reina supremo e sua astúcia será sua maior arma. Você consegue se libertar e reescrever o destino de Bellatrix? A contagem regressiva para a aventura começa agora.
+</div>
 
----
 
-###  Linguagens e Ferramentas que serão Utilizadas:</b>
+<br>
+
+<div align="center">
+<img src="https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/85a2fa47-c0ad-4785-8749-4b60ab1fe39b" width="180px">
+</div>
+
+<h2 align="center">➤ Linguagens e Ferramentas: 🎮</h2></b>
 <br>
 
 <p  align="center">
@@ -42,16 +52,21 @@ Totalitaire é um jogo que sua historia está ambientada em uma cidade futurista
 
 ---
 
-### ➤ Nossa Equipe:
+<h2 align="center">➤ Nosso Time 🎯</h2></b>
 
 <div align="center">
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/leticiadutra22-23"><img src="https://avatars.githubusercontent.com/u/101335613?v=4" width="100px;" alt="Leticia Dutra"/><br /><sub><b>Leticia Dutra</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/indigow95"><img src="https://avatars.githubusercontent.com/u/106782812?v=4" width="100px;" alt="Isadora Fontenele"/><br /><sub><b>Isadora Fontenele</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/PedroKeita"><img src="https://avatars.githubusercontent.com/u/82671771?v=4" width="100px;" alt="Pedro Lucas"/><br /><sub><b>Pedro Lucas</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/xxkaiozin"><img src="https://avatars.githubusercontent.com/u/112056208?v=4" width="100px;" alt="Kaio Leandro"/><br /><sub><b>Kaio Leandro</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/leticiadutra22-23"><img src="https://avatars.githubusercontent.com/u/101335613?v=4" width="100px;" alt="Letícia Dutra"/><br /><sub><b>Leticia Dutra</b>
+        </a>
+        <p>Game Designer</p></sub></td>
+      <td align="center"><a href="https://github.com/indigow95"><img src="https://avatars.githubusercontent.com/u/106782812?v=4" width="100px;" alt="Isadora Fontenele"/><br /><sub><b>Isadora Fontenele</b></a>
+        <p>Game Artist</p></sub></td>
+      <td align="center"><a href="https://github.com/PedroKeita"><img src="https://avatars.githubusercontent.com/u/82671771?v=4" width="100px;" alt="Pedro Lucas"/><br /><sub><b>Pedro Lucas</b></a>
+        <p>Game Developer</p></sub></td>
+      <td align="center"><a href="https://github.com/xxkaiozin"><img src="https://avatars.githubusercontent.com/u/112056208?v=4" width="100px;" alt="Kaio Leandro"/><br /><sub><b>Kaio Leandro</b></sub></a>
+        <p>Game Developer</p></td>
     </tr>
   </tbody>
 </table>
@@ -59,7 +74,7 @@ Totalitaire é um jogo que sua historia está ambientada em uma cidade futurista
 
 ---
 
-<h3 align="center">Forma de Contatos:</h3>
+<h2 align="center"> ➤ Entre em contato: ✉ </h2>
 <div align="center">
 
 
