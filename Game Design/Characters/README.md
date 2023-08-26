@@ -16,7 +16,7 @@
       <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='120'>
       <b>Bellatrix/Al Najid</b>
     </td>
-    <td style="text-align: justify;">Texto em desenvolvimento <br>
+    <td style="text-align: justify;">Bellatrix, uma órfã arrastada para o sombrio Plano Gênesis durante a tumultuada década de 2020, encontra em Mephistopheles, líder enigmático da Sheol Corp, uma figura paterna em meio à crueldade. Seu treinamento a destaca, mas a descoberta da quarta fase do Projeto Gênesis e a manipulação mental dos Triogênesis a abalam. Vladmir, mentor fraterno, semeia desconfiança e filosofia, minando a corporação por dentro. Enfrentando Mephistopheles, ela é capturada e levada para um pesadelo. Determinada, Bellatrix está pronta para moldar seu destino, desafiando as garras da Sheol Corp em busca de liberdade e justiça. <br>
     </br>
     <p align="left">
      <a href="https://github.com/CatBoxArtsCo/Totalitaire/blob/main/Game%20Design/Characters/Protagonista/Bellatrix.md" target="blank">
