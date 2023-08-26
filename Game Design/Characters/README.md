@@ -1,4 +1,6 @@
-### ➤ Personagens do jogo:
+
+![personagens](https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/f027d46c-0c80-4cde-aa13-597f7ad6778a)
+
 <p  align="center">
 
 </p>
@@ -15,31 +17,21 @@
   </tr>
   <tr>
     <td>Procel - O Mensageiro</td>
-    <td style="text-align: justify;">Procel era o companheiro fiel de um soldado russo chamado Simon Borisov, de 16 anos, que lutou durante um Cerco da ANG na Faixa de Guerra em Volgogrado. Procel era um gatinho que conseguia caminhar tranquilamente pelas ruas de sua cidade natal. Acalmava seu amigo Simon da rotina desesperadora da guerra, saía em busca de comida e um lugar para dormir, antes de voltar novamente para o seu amigo.
-Durante esse cerco, os quartéis russos tinham muita dificuldades de se comunicarem devido às interceptações tecnológicas, a zona sendo quase um campo minado, além de não saberem onde os exércitos inimigos estavam e os possíveis espiões infiltrados. Ainda sim, Procel ia e voltava tranquilamente pela cidade. O General responsável pelo quartel a época observou essa proeza, e começou a perceber que Procel sempre ia de quartel em quartel russo para buscar comida, afagos e sossego. Com isso, o General começou a mandar mensagens na coleira de Procel, para que os exércitos conseguissem se comunicar.
-Com o aumento da intensidade da batalha, devido à aproximação dos exércitos inimigos, o quartel de seu amigo Simon foi invadido e destruído, mas Procel não estava lá. Procel só soube quando chegou e tudo já estava acabado, havendo o avanço do exército da ANG. Ele procurou Simon nos escombros, e infelizmente, descobriu o corpo de seu melhor amigo lá.
-Procel, como um bom amigo, ficou ao lado dele até o exército da ANG, junto de cientistas da Sheol Corp., chegarem para roubar os corpos. Quando encontraram Procel, todo sujinho, notaram o pedaço de papel entrelaçado em sua coleira, percebendo a expertise do bichano. 
-Ele foi capturado, mas viu que também levaram Simon, além de comentaram sobre experimentos de aprimoração da capacidade humana, capaz até talvez, da ressureição. Isso deu esperanças à Procel.
-Ao chegar na unidade da Sheol Corp. ele foi submetido à diversos testes e experimentos, para tornar seu corpo blindado e habilitar capacidade de comunicação com humanos, além de fazerem alterações em seu cérebro para torná-lo mais próximo ao modo de funcionamento de um cérebro humano. O objetivo era que Procel continuasse atuando como mensageiro, mas dessa vez, para os exércitos aliados à ANG.
-Contudo, isso não funcionou. Procel se recusava a colaborar com as pessoas que tiraram tudo dele! Sendo bastante arisco, ele não pensava duas vezes antes de morder e arranhar, além de ser bem ágil para correr e não ser pego. Ele conseguiu fugir e se esconder nos dutos da Sheol Corp., com a esperança de achar seu amigo e voltarem para a casa. Foi assim, até ele perceber que sendo apenas um gato escondido não seria o suficiente, mas a oportunidade surgiu ao conhecer Bellatrix..</td>
+    <td style="text-align: justify;">Procel, fiel companheiro do soldado russo Simon Borisov, torna-se um mensageiro improvável durante o Cerco da ANG na Faixa de Guerra de Volgogrado. Sua habilidade de se movimentar pelas ruas em meio ao caos chama a atenção do General, resultando em Procel se tornando um portador de mensagens secretas. A destruição do quartel de Simon e a captura de Procel pela Sheol Corp. levam a experimentos de aprimoramento que visam até a ressurreição humana. No entanto, sua busca por liberdade leva-o a encontrar Bellatrix, abrindo caminho para uma jornada épica além do que jamais imaginara.</td>
   </tr>
   <tr>
     <td>Mephistopheles</td>
-    <td style="text-align: justify;"> Mephistopheles pode ser considerado o filho do Novo Renascimento, alcançado através de Gillead. 
-Filho de um casal político importantíssimo para a construção de Gillead, os Martin (Fertilité et Bataille), viveu uma infância imersa nas políticas da Antiga França e suas contradições. 
-Desde pequeno, Mephistopheles foi letrado com a melhor educação que a burguesia francesa poderia oferecer, não significando uma melhora em seu ego, sempre gigantesco. Seu próprio pai lhe dizia, "este ego ainda vai reerguer nações", estimulando a síndrome de Deus do filho. Mephistopheles cresceu com o peso de uma nação em suas costas, mas isso nunca foi exatamente um desafio para si. Ele sentia que podia fazer tudo que seus pais faziam com bastante facilidade, mas nunca faria pois almejava objetivos mais relevantes para a humanidade.
-Ao terminar seus estudos em uma renomada universidade de elite na área de economia, Mephistopheles abriu os portões de seu próprio empreendimento: a Sheol Corp. 
-Seus objetivos com a empresa consistiam em criar uma nova geração de desenvolvimento bélico, contudo, que não tivessem o potencial de erro e destruição como bombas atômicas. A ideia de ver algo destruído de dentro pra fora, era muito mais atraente. Assim, ele focou em desenvolver tecnologias que colocariam em foco a potência e equilíbrio dos países internamente, ou seja, àqueles que estavam com rebeliões e revoltas internas sucumbiriam às suas criações. Ele gostou de como a palavra "Apocalipse" soava. 
+    <td style="text-align: justify;"> Mephistopheles, filho do influente casal político Martin, que moldou a nação de Gillead durante o Novo Renascimento, cresceu imerso nas intrigas da antiga França. Criado na opulência burguesa, sua educação privilegiada não diminuiu seu ego gigantesco, incitado por seu pai que previu que seu ego "reergueria nações". Ele se formou em economia, mas sentiu o fardo de carregar uma nação nas costas e ansiou por objetivos mais grandiosos. Fundou a Sheol Corp., visando revolucionar o desenvolvimento bélico com tecnologias internamente devastadoras, em contraste com as bombas atômicas. Seu foco: apocalipse de dentro para fora, desequilibrando nações em rebelião.
 </td>
   </tr>
   <tr>
-    <td>Vladmir Vasilievich Kutuzov</td>
-    <td style="text-align: justify;"> Texto em desenvolvimento
+    <td>Vladmir</td>
+    <td style="text-align: justify;"> A Guerra da Rússia contra a ANG entre 2031 e 2034 testemunha Vladmir como um tenente russo que lidera esquadrões em Volgogrado. Seu filho Zakhar nasce em 2033, levando-o a questionar seu propósito na guerra. A oferta de espionagem pela Sheol Corp. através de Nicolay, usando a ligação emocional de Zakhar, leva Vladmir a se aliar temporariamente, mas descobre o verdadeiro plano de Mephistopheles, que nunca pretendeu salvar sua família. Quando Vladmir encontra os arquivos da morte deles, sua raiva se transforma em um desejo de vingança contra a corporação.
 </td>
   </tr>
   <tr>
     <td>Kasyade</td>
-    <td style="text-align: justify;">Texto desenvolvimento</td>
+    <td style="text-align: justify;">Nascido no Iraque em 2020 durante a pandemia global e a retirada das tropas dos EUA, Kasyade imigrou para a França aos 2 anos. Dominando vários idiomas, ele se destacou academicamente e ingressou no Projeto 15 da ANG aos 15 anos. Com formação em biologia e farmácia, ele se tornou um renomado cientista e aos 23, na Sheol Corp., desenvolveu soros que controlam e prolongam a vida de ciborgues. Sua gratidão a Mephistopheles o mantém leal à Sheol, apesar de suas origens iraquianas e sua preferência por pesquisa em vez de geopolítica. Mephistopheles confia nele e protege sua família.</td>
   </tr>
   <tr>
     <td>Azael</td>
