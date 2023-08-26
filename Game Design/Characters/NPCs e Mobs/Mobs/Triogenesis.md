@@ -1,5 +1,10 @@
 ![Triogenesis](https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/797c0960-9cc4-4c83-975f-aef2d0bdd7ae)
 <br>
+
+![Badge](https://img.shields.io/badge/lore-COMPLETE-FFFFFF?style=for-the-badge&logo=)
+![Badge](https://img.shields.io/badge/skills-COMPLETE-FFFFFF?style=for-the-badge&logo=)
+
+<br>
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 Os Triogênesis surgiram como um modelo com foco em desenvolvimento racional e espiã, em contraposição aos objetivos dos Duogênesis. Dessa forma, as crianças cobaias para se tornarem um Triogênesis, começariam um intenso preparo psicológico, entrando em um programa conhecido como "Programa Bunpu" (分布 - repartição, que visava justamente a "repartição" e melhoria de condições inerentes ao ser humano), que duraria cerca de 1 ano e teria foco em alcançar o apogeu das habilidades humanas - físicas e racionais, onde os cientistas liderados por Kasyade desenvolveram soros, como o soro XNCX, que tinha como objetivo tornar o cérebro mais suscetível ao recebimento de informações (também acabou sendo muito utilizado para lavagens cerebrais em soldados conquistados em batalhas). Além do soro de Hiper Desenvolvimento Sobre Humano, com o foco em aumentar as habilidades físicas das crianças/adolescentes, alcançando a super força, super agilidade, super velocidade, super resistência e super capacidade de cura e regeneração. Após as cobaias alcançarem o apogeu no programa, a fase de implementação ciborgue era iniciada. Os protótipos tinham seu corpo alterado e revestido para partes robóticas com uma alta blindagem, apenas para serem revestidos novamente por um tecido à imitar a epiderme humana, cujo ainda possuía a habilidade de cura/regeneração advinda do soro de Hiper Desenvolvimento Sobre Humano. 
