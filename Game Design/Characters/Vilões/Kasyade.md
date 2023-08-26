@@ -1,5 +1,10 @@
 ![Kasyade](https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/9ef7026c-bc49-4048-b3f0-5523e77d2cfc)
 <br>
+
+![Badge](https://img.shields.io/badge/lore-COMPLETE-FFFFFF?style=for-the-badge&logo=)
+![Badge](https://img.shields.io/badge/skills-COMPLETE-FFFFFF?style=for-the-badge&logo=)
+
+<br>
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <h3> Infância </h3>
