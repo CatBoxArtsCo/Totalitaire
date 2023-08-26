@@ -8,7 +8,8 @@
 
 ![Badge](https://img.shields.io/badge/status-INPROGRESS-FFFFFF?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/language-PTBR-FFFFFF?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/game-PLATAFORMA-FFFFFF?style=for-the-badge&logo=)
 
-Bem-vindo(a) ao Totalitaire, onde uma história eletrizante se desenrola na metrópole de Quebyoto - um refúgio cyberpunk sob o domínio implacável de um regime militar, Gileade. Como a destemida Bellatrix, você é lançado(a) em uma missão de tirar o fôlego: escapar de um laboratório de alta segurança em apenas dois dias. Navegue pela intrincada teia de um futuro distópico, onde o poder corporativo reina supremo e sua astúcia será sua maior arma. Você consegue se libertar e reescrever o destino de Bellatrix? A contagem regressiva para a aventura começa agora.
+Adentre um universo intrigante na companhia de Bellatrix, uma peça essencial na terceira iteração do Plano Gênesis. À medida que os véus que encobrem as intenções da Sheol Corp e seu líder, Mephistopheles, são puxados, um cataclismo interno aguarda Bellatrix. Movida por coragem e nutrida por desconfiança, ela se lança em uma busca incansável por escapar de um local que outrora chamava de lar.
+Neste enredo cativante, testemunhe Bellatrix confrontando não apenas a sinistra corporação, mas também todos os que estão envolvidos nos planos nefastos de Mephistopheles. Explore as profundezas do desconhecido e descubra se ela conseguirá desvendar os segredos obscuros, desmantelar as teias do poder e encontrar sua própria redenção em meio ao caos implacável de Totalitaire.
 </div>
 
 
