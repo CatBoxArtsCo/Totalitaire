@@ -15,7 +15,7 @@ Bem-vindo(a) ao Totalitaire, onde uma história eletrizante se desenrola na metr
 <br>
 
 <div align="center">
-<img src="https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/85a2fa47-c0ad-4785-8749-4b60ab1fe39b" width="180px">
+<img src="https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/85a2fa47-c0ad-4785-8749-4b60ab1fe39b" width="130px">
 </div>
 
 <h2 align="center">➤ Linguagens e Ferramentas: 🎮</h2></b>
