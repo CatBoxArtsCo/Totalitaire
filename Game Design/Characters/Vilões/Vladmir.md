@@ -1,6 +1,10 @@
 ![Vladmir](https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/084d98bf-ad06-46aa-be81-359b3bb2d839) <br>
 <h2> Vladmir Vasilievich Kutuzov </h2>
 <br>
+
+![Badge](https://img.shields.io/badge/lore-COMPLETE-FFFFFF?style=for-the-badge&logo=)
+![Badge](https://img.shields.io/badge/skills-COMPLETE-FFFFFF?style=for-the-badge&logo=)
+
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <h3> Guerra da Rússia (2031-2034) </h3>
