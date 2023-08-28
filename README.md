@@ -19,6 +19,26 @@ Neste enredo cativante, testemunhe Bellatrix confrontando não apenas a sinistra
 <img src="https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/85a2fa47-c0ad-4785-8749-4b60ab1fe39b" width="130px">
 </div>
 
+<h2 align="center">➤ Mais sobre o projeto: 📌</h2>
+
+<br>
+<div align="center">
+<a href="https://github.com/CatBoxArtsCo/Totalitaire/tree/main/Game%20Design/Characters" target="blank">
+      <img src="https://img.shields.io/badge/Os_personagens-6756BE?style=for-the-badge" alt="Personagens" />
+</a>
+
+<a href="https://github.com/CatBoxArtsCo/Totalitaire/tree/main/Game%20Design/Game%20Assets" target="blank">
+      <img src="https://img.shields.io/badge/Nossos_sprites-6756BE?style=for-the-badge" alt="Assets" />
+</a>
+
+<a href="https://github.com/CatBoxArtsCo/Totalitaire/tree/main/Game%20Design/Sound%20Design" target="blank">
+      <img src="https://img.shields.io/badge/Nossa_soundtrack-6756BE?style=for-the-badge" alt="Sound" />
+</a>
+
+<br>
+
+</div>
+
 <h2 align="center">➤ Linguagens e Ferramentas: 🎮</h2></b>
 <br>
 
