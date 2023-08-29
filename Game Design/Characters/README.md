@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>
-      <img src='https://github.com/CatBoxArtsCo/Totalitaire/blob/main/Game%20Design/Characters/Protagonista/Bellatrix%20-%20idle/Bellatrix%20-%20idle.gif?raw=true' width='120'>
+      <img src='https://github.com/CatBoxArtsCo/Totalitaire/blob/main/Game%20Design/Game%20Assets/Personagens/Protagonista/Bellatrix%20-%20idle/Bellatrix%20-%20idle.gif?raw=true' width='120'>
       <b>Bellatrix/Al Najid</b>
       <br>
       <i>Protagonista</i>
