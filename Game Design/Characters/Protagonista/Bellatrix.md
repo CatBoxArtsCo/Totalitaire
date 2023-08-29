@@ -4,8 +4,11 @@
 
 ![Badge](https://img.shields.io/badge/lore-COMPLETE-FFFFFF?style=for-the-badge&logo=)
 ![Badge](https://img.shields.io/badge/skills-COMPLETE-FFFFFF?style=for-the-badge&logo=)
+<a href="https://github.com/CatBoxArtsCo/Totalitaire/tree/main/Game%20Design/Game%20Assets/Personagens/Protagonista" target="blank">
+      <img src="https://img.shields.io/badge/Sprites-white?style=for-the-badge" alt="Bellatrix" />
+</a>
 
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='left' src='https://github.com/CatBoxArtsCo/Totalitaire/blob/main/Game%20Design/Game%20Assets/Personagens/Protagonista/Bellatrix%20-%20idle/Bellatrix%20-%20idle.gif?raw=true' width='200'>
 Nos recantos sombrios da década conturbada de 2020, a história de Bellatrix se desenrolava. Órfã desde os sete anos, foi contrabandeada para a Implementação do Plano Gênesis. Sua infância foi forjada em um ambiente impiedoso, onde a esperança minguava em meio à cruel realidade da Sheol Corp.
 
 E foi lá, nesse cenário desolado, que o destino traçou sua rota em um encontro que moldaria o seu destino. Bellatrix se deparou com Mephistopheles, o líder enigmático da Sheol Corp. Ele viu além das sombras, reconhecendo nela um fogo interior inquebrantável, uma mistura de determinação e coragem que o intrigou profundamente. O primeiro encontro deles, definiu uma conexão única; Mephistopheles a considerou como uma filha adotiva, e essa relação cresceu em meio às sinistras atividades da corporação.
