@@ -4,10 +4,13 @@ var _chao = place_meeting(x,y +1, obj_plat) || place_meeting(x,y+1, obj_escada);
 
 
 var _left, _right, _jump,_shoot,_atacar;
-_left = keyboard_check(inputs.left);
-_right = keyboard_check(inputs.right);
-_jump = keyboard_check_pressed(inputs.jump);
-_shoot = keyboard_check(inputs.shoot);
+	//Dead zone do controle
+	//gamepad_set_axis_deadzone(global.controle, 0.25)
+//Movimentação
+_left = keyboard_check(inputs.left) or gamepad_axis_value(global.controle, gp_axislh) < -0.25;
+_right = keyboard_check(inputs.right)or gamepad_axis_value(global.controle, gp_axislh) > 0.25;
+_jump = keyboard_check_pressed(inputs.jump)or gamepad_button_check(global.controle, gp_face1);
+_shoot = keyboard_check(inputs.shoot)or gamepad_button_check(global.controle, gp_shoulderrb) ;
 _atacar = keyboard_check(inputs.atacar);
 
 
@@ -39,7 +42,7 @@ if (place_meeting(x,y,obj_entidade_inimigo))
 	dano =true;
 }
 
-if(dano)
+if(dano && global.japode = false)
 {
 	sprite_index = spr_player_dano
 	arremesar_h = -10;
@@ -81,7 +84,7 @@ if (_jump)
 	}
 	else
 	{
-		if _shoot = false {
+		if _shoot = false && global.japode = false {
 		sprite_index = spr_player_idle
 		}
 		else if _shoot = true{

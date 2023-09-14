@@ -15,7 +15,8 @@ shooting = false;
 alarm[0] = 0;
 global.life = 5;
 global.stamina = 5;
-japode = true;
+global.japode = false;
+sprite = spr_player_idle
 //definir os comandos de tecla
 inputs = {
 	left : ord("A"),
@@ -24,5 +25,12 @@ inputs = {
 	shoot : ord("L"),
 	atacar : ord("J"),
 }
+
+
+
+
+
+
+
 
 

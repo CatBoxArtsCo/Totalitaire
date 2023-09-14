@@ -6,6 +6,10 @@ if alarm[0] <= 0 && global.life > 0{
 	 alarm[0] = 90;
 }
 
-//i/f (global.life == 0){
-	//game_restart()
-//}
+if (global.life == 0){
+	alarm[0] = 30;
+	sprite_index = spr_player_morte
+	sprite = spr_player_morte
+}
+
+audio_play_sound(sound_dano, 1, false)

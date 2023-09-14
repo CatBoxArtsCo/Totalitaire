@@ -4,25 +4,20 @@
 //checar se inimigo estiver no chao
 var _chao = place_meeting(x,y + 1, obj_plat);
 var tomou = (place_meeting(x,y,obj_tiro))
+tomou = false;
 if (place_meeting(x,y,obj_tiro))
 {
 	dano = true;
+	sprite = spr_inimigo_dano
 }
 
-if(dano && timer_dano <=0)
+if(dano = true )
 {
 	sprite_index = spr_inimigo_dano
 	
-	timer_dano++;
+	timer_dano--;
+	dano=false;
 	
-	if(timer_dano <= 0){
-		dano=false;
-		timer_dano = room_speed /4;
-		image_blend = c_white;
-		if(dano = false){
-		instance_destroy();
-		}
-	}
 }
 
 if(_chao)

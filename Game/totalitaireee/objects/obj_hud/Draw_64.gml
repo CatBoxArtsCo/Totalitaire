@@ -19,8 +19,9 @@ draw_sprite(spr_life,4,150,100)
 }
 if global.life = 0 {
 draw_sprite(spr_life,5,150,100)
-draw_sprite(spr_gameover,0,150,150)
+
 }
+
 
 //Icone da estamina
 if global.stamina = 5
