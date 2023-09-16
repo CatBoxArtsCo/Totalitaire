@@ -49,10 +49,4 @@ Intrigada, ela abre uma gaveta da mesa, deparando-se com certidões de óbito: "
         <li>O uniforme aumenta 18% a velocidade do usuário pela tecnologia que estimula os músculos da região das pernas, fortalecendo-os gradativamente com o uso.</li>
       </td>
     </tr>
-     <tr>
-      <td><b>Soro XLX</b></td>
-      <td style="text-align: justify;">Líquido verde injetável capaz de equilibrar as correntes das sinapses elétricas entre os neurônios com a dos aparelhos implantados na pessoa, para evitar qualquer dano no sistema nervoso e normalizar as ações da arma biológica. <ul>
-        <li>Restaura a vida da personagem</li>
-      </td>
-    </tr>
   </table>
