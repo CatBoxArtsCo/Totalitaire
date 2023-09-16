@@ -5,7 +5,7 @@
    ![Badge](https://img.shields.io/badge/status-CONCLUÍDo-white?style=for-the-badge&logo=)
 </div>
 
-**INT. SALA DE MENTORIA - DIA**
+**INT. ESCRITÓRIO DE VLADMIR - DIA**
 
 *Uma sala espaçosa, iluminada apenas pelo brilho suave das câmeras de segurança. VLADMIR, um mentor frio e calculista, está sentado a uma mesa, saboreando seu café com calma. BELLATRIX, determinada e desafiante, irrompe na sala.*
 
