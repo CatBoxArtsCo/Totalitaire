@@ -125,7 +125,7 @@
   </tr>
   <tr>
     <td>
-      <img src='https://github.com/CatBoxArtsCo/Totalitaire/blob/main/Game%20Design/Game%20Assets/Personagens/NPCs%20e%20Mobs/Mobs/Duog%C3%AAnesis/idle/dougenesis%20-%20idle.gif?raw=true' width='120'>
+      <img src='https://github.com/CatBoxArtsCo/Totalitaire/assets/101335613/ca5248f0-a422-444a-a06f-0a10ce845186' width='120'>
       <b>Duogênesis</b>
       <br>
       <i>Mobs</i>
