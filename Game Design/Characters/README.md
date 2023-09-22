@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>
-      <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='120'>
+      <img src='https://github.com/CatBoxArtsCo/Totalitaire/blob/main/Game%20Design/Game%20Assets/Personagens/NPCs%20e%20Mobs/NPCs/Procel/Procel%20-%20idle%20sentado/Procel%20-%20idle%20sentado.gif?raw=true' width='80'> <br>
       <b>Procel - O Mensageiro</b>
       <br>
       <i>NPC Guia</i>
