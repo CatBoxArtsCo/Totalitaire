@@ -25,15 +25,15 @@ Neste enredo cativante, testemunhe Bellatrix confrontando não apenas a sinistra
 <br>
 <div align="center">
 <a href="https://github.com/CatBoxArtsCo/Totalitaire/tree/main/Game%20Design/Characters" target="blank">
-      <img src="https://img.shields.io/badge/Os_personagens-6756BE?style=for-the-badge" alt="Personagens" />
+      <img src="https://img.shields.io/badge/Os_personagens-21004D?style=for-the-badge" alt="Personagens" />
 </a>
 
 <a href="https://github.com/CatBoxArtsCo/Totalitaire/tree/main/Game%20Design/Game%20Assets" target="blank">
-      <img src="https://img.shields.io/badge/Nossos_sprites-6756BE?style=for-the-badge" alt="Assets" />
+      <img src="https://img.shields.io/badge/Nossos_sprites-21004D?style=for-the-badge" alt="Assets" />
 </a>
 
 <a href="https://github.com/CatBoxArtsCo/Totalitaire/tree/main/Game%20Design/Sound%20Design" target="blank">
-      <img src="https://img.shields.io/badge/Nossa_soundtrack-6756BE?style=for-the-badge" alt="Sound" />
+      <img src="https://img.shields.io/badge/Nossa_soundtrack-21004D?style=for-the-badge" alt="Sound" />
 </a>
 
 <br>
