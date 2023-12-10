@@ -1,12 +1,13 @@
 <div align="center">
   
-![TOTALITAIRE](https://github.com/CatBoxArtsCo/Totalitaire/assets/141590555/2e06d985-710a-4f62-9e2b-57d33b4ec732)
-  
+<img src="https://github.com/CatBoxArtsCo/Totalitaire/assets/101335613/dbaad755-cf0c-4f4a-92d0-84c7e7597aac" width="400px">
+<br>  
+<br>  
 </div>
 
 <div align="center">
 
-![Badge](https://img.shields.io/badge/status-INPROGRESS-FFFFFF?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/language-PTBR-FFFFFF?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/game-PLATAFORMA-FFFFFF?style=for-the-badge&logo=)
+![Badge](https://img.shields.io/badge/status-INPROGRESS-36F8FB?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/language-PTBR-36F8FB?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/game-PLATAFORMA-36F8FB?style=for-the-badge&logo=)
 
 Adentre um universo intrigante na companhia de Bellatrix, uma peça essencial na terceira iteração do Plano Gênesis. À medida que os véus que encobrem as intenções da Sheol Corp e seu líder, Mephistopheles, são puxados, um cataclismo interno aguarda Bellatrix. Movida por coragem e nutrida por desconfiança, ela se lança em uma busca incansável por escapar de um local que outrora chamava de lar.
 Neste enredo cativante, testemunhe Bellatrix confrontando não apenas a sinistra corporação, mas também todos os que estão envolvidos nos planos nefastos de Mephistopheles. Explore as profundezas do desconhecido e descubra se ela conseguirá desvendar os segredos obscuros, desmantelar as teias do poder e encontrar sua própria redenção em meio ao caos implacável de Totalitaire.
