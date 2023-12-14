@@ -141,7 +141,7 @@
   </tr>
   <tr>
     <td>
-      <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='120'>
+      <img src='https://github.com/CatBoxArtsCo/Totalitaire/blob/main/Game%20Design/Game%20Assets/Personagens/NPCs%20e%20Mobs/Mobs/Triog%C3%AAnesis/idle/trio%C3%AAnesis%20-%20idle.gif?raw=true' width='120'>
       <b>Triogênesis</b>
       <br>
       <i>Mobs</i>
