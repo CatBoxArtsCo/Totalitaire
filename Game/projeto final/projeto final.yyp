@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.7",
-  "name": "project att final",
+  "name": "projeto final",
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
@@ -231,6 +231,7 @@
     {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
     {"id":{"name":"obj_skip","path":"objects/obj_skip/obj_skip.yy",},},
     {"id":{"name":"spr_proximo_apertado","path":"sprites/spr_proximo_apertado/spr_proximo_apertado.yy",},},
+    {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},},
     {"id":{"name":"spr_gameover","path":"sprites/spr_gameover/spr_gameover.yy",},},
     {"id":{"name":"scribble_typists_add_event","path":"scripts/scribble_typists_add_event/scribble_typists_add_event.yy",},},
     {"id":{"name":"obj_prox_room_porta","path":"objects/obj_prox_room_porta/obj_prox_room_porta.yy",},},
@@ -320,6 +321,7 @@
     {"id":{"name":"scribble_kerning_pair_get","path":"scripts/scribble_kerning_pair_get/scribble_kerning_pair_get.yy",},},
     {"id":{"name":"scribble_font_add_all","path":"scripts/scribble_font_add_all/scribble_font_add_all.yy",},},
     {"id":{"name":"scribble_font_bake_shadow","path":"scripts/scribble_font_bake_shadow/scribble_font_bake_shadow.yy",},},
+    {"id":{"name":"tileset_boss","path":"sprites/tileset_boss/tileset_boss.yy",},},
     {"id":{"name":"__scribble_gen_5_finalize_bidi","path":"scripts/__scribble_gen_5_finalize_bidi/__scribble_gen_5_finalize_bidi.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"scribble_refresh_everything","path":"scripts/scribble_refresh_everything/scribble_refresh_everything.yy",},},
